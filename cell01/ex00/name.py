@@ -1,2 +1,3 @@
-print(Pimpichaya)
-print(Neawchampa)
+first_name="Pimpichaya"
+last_name="Neawchampa"
+print(first_name , last_name)
