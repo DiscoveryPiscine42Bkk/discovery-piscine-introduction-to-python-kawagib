@@ -4,8 +4,8 @@ def main():
         j = 0
         output = f="Table de {i}:"
         while j <= 10:
-            output += f" {I * J}"
-            J += 1
+            output += f" {i * j}"
+            j += 1
         print(output)
         i += 1
 
