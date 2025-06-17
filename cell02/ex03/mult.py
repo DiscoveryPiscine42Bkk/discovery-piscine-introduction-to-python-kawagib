@@ -9,9 +9,9 @@ def main():
         if product > 0:
             print("The result is positive.")
         elif product < 0:
-            print("The result is negative")
+            print("The result is negative.")
         else:
-            print("The result is zero")
+            print("The result is positive and negative.")
     except ValueError:
         print("Please enter valid integers")
 
